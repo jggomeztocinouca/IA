@@ -1,9 +1,0 @@
-# Project exclude paths
-/cmake-build-debug/
-.idea/inspectionProfiles/Project_Default.xml
-CMakeLists.txt
-.idea/discord.xml
-.idea/IA.iml
-.idea/misc.xml
-.idea/modules.xml
-.idea/vcs.xml
